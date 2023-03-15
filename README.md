@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/pratik.27s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik.27s" height="30" width="40" /></a>
-<a href="https://pratik-k-sahoo.github.io/Pratik.KS.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Pratik.KS" height="30" width="40" /></a>
+<a href="https://pratik-k-sahoo.github.io/Pratik.KS.github.io/" target="blank"><img align="center" src="https://github.com/Pratik-k-sahoo/Pratik-k-sahoo/blob/main/portfolio.png" alt="Pratik.KS" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@pratikksahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pratikksahoo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sahoopratik5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sahoopratik5" height="30" width="40" /></a>
 </p>
