@@ -28,6 +28,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-k-sahoo&show_icons=true&locale=en" alt="pratik-k-sahoo" /></p>
 
+[![An image of @pratikksahoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratikksahoo)](https://holopin.io/@pratikksahoo)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-k-sahoo&" alt="pratik-k-sahoo" /></p>
 
 
